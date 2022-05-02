@@ -1,0 +1,13 @@
+/* 全局修改ELment UI 样式 */
+// .el-button--medium 中等
+// .el-button--small 小型
+// .el-button--mini 迷你
+.el-button.el-button--medium {
+    padding: 9px 15px;
+}
+.el-button.el-button--small {
+    padding: 7px 12px;
+}
+.el-button.el-button--mini {
+    padding: 5px 9px;
+}
